@@ -1,0 +1,7 @@
+{
+  "name": "Desafio_dynamic_components",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
